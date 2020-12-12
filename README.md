@@ -19,6 +19,5 @@ Repository housing notebook, dataset and pre-trained model.
 https://arxiv.org/abs/1512.03385
 
 [2] U. Ozbylak. *Convolutional Neural Network Visualizations*,
-https://github.com/utkuozbulak/pytorch-cnn-visualizations/blob/master/README.md#gradient-visualization
-
+https://github.com/utkuozbulak/pytorch-cnn-visualizations
 

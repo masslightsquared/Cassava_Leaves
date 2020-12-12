@@ -5,7 +5,7 @@ Repository housing notebook, dataset and pre-trained model.
 
 ## Implemented Techniques
 
-* [Gradient visualization with vanilla backpropagation](#gradient-visualization)
+* Gradient visualization with vanilla backpropagation
 * Image augmentation
 * ResNet-18 pretrained on images from the ImageNet database
 

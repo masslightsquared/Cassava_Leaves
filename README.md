@@ -18,10 +18,10 @@ Repository housing notebook, dataset and pre-trained model.
 ```
 pytorch
 torchvision
+python 3.6
 ```
 
 ## References:
-
 [1] K. He, X. Zhang, S. Ren, J. Sun. *Deep Residual Learning for Image Recognition*,
 https://arxiv.org/abs/1512.03385
 
